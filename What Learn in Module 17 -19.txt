@@ -1,0 +1,29 @@
+
+Module 17 - 19 Learn Part : 
+
+1/ Variable 
+    * string
+    * integer
+    * bollean
+
+2/ array
+     * length
+     * index / of
+     * push / pop
+    
+3 / condition 
+     * if
+     * else-if
+     * else
+      * and / or
+
+4/  Loop
+    * While
+    *  For
+
+5/  Function  
+    * defince function
+    * call a function
+    * parameter
+    * return function
+     * and , or 
